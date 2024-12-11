@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: example.labGB2BRKEnergy-R2024a
+Version: 24.1
+Summary: A Python interface to example.labGB2BRKEnergy
+Home-page: https://www.mathworks.com/
+Author: MathWorks
+Platform: Linux
+Platform: Windows
+Platform: macOS
